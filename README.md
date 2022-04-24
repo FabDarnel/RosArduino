@@ -8,8 +8,7 @@ The objective of this tutorial is to:
 1. [General Info](#general-info)
 2. [Installation](#installation)
 3. [ROS Package](#ros-package)
-4. [Script](#script)
-5. [Run Scrip](#run-script)
+4. [Run Scrip](#run-script)
 
 ## General Info
 1. The Robot Operating System (ROS) is a set of software libraries and tools that help you build robot applications. From drivers to state-of-the-art algorithms, and with powerful developer tools, ROS has what you need for your next robotics project. And it's all open source. (https://www.ros.org/)
